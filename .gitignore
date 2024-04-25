@@ -1,0 +1,10 @@
+# Ignore everything in the root directory
+/*
+
+# But not these files and directories
+!.gitignore
+!.gitattributes
+!.gitmodules
+!/nvim/
+!/godot/
+!/aseprite/
